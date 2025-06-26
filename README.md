@@ -2,6 +2,10 @@
 
 Based on tutorial at [https://pimylifeup.com/ubuntu-minecraft-bedrock-server/](https://pimylifeup.com/ubuntu-minecraft-bedrock-server/)
 
+## Requirements
+
+You will need the [jq library](https://jqlang.org/) to extract the download URL
+
 ## Copy file to server
 
 ```bash
